@@ -5,7 +5,6 @@ echo 1 . 2, "<br>";                //prints the string "12"
 echo 1.2, "<br>";                  //prints the number 1.2
 echo 1+2, "<br>";
 
-
 $a = 1.234; 
 $b = 1.2e3; 
 $c = 7E-10;
